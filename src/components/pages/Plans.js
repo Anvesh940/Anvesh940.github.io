@@ -12,18 +12,6 @@ const useStyles = makeStyles({
     border: "2px solid #1976d2",
     borderRadius: 5
   },
-  bullet: {
-    display: "inline-block",
-    margin: "0 2px",
-    transform: "scale(0.8)",
-  },
-  title: {
-    fontSize: 14,
-    fontWeight: 600
-  },
-  pos: {
-    marginBottom: 12,
-  },
 });
 
 export default function Plans() {
